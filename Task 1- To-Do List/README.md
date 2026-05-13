@@ -1,10 +1,10 @@
-# 📝 Python To-Do List Application
+#  Python To-Do List Application
 
 A simple and efficient command-line based To-Do List application developed using Python and Object-Oriented Programming (OOP) concepts. This application helps users manage daily tasks by allowing them to add, view, update, delete, and mark tasks as completed.
 
 ---
 
-# 📖 Project Overview
+#  Project Overview
 
 The To-Do List Application is designed to improve task management and productivity. It provides a user-friendly command-line interface where users can organize their tasks efficiently.
 
@@ -19,20 +19,20 @@ This project is ideal for beginners learning Python and software development con
 
 ---
 
-# 🚀 Features
+#  Features
 
-✅ Add new tasks  
-✅ View all tasks  
-✅ Delete tasks  
-✅ Mark tasks as completed  
-✅ Persistent task storage using JSON  
-✅ Modular and scalable code structure  
-✅ Command-line interface (CLI)  
-✅ Easy to customize and expand  
+- Add new tasks  
+- View all tasks  
+- Delete tasks  
+- Mark tasks as completed  
+- Persistent task storage using JSON  
+- Modular and scalable code structure  
+- Command-line interface (CLI)  
+- Easy to customize and expand  
 
 ---
 
-# 🛠️ Technologies Used
+#  Technologies Used
 
 | Technology | Purpose |
 |---|---|
@@ -43,7 +43,7 @@ This project is ideal for beginners learning Python and software development con
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 ```text
 todo_app/
@@ -57,86 +57,13 @@ todo_app/
 ```
 
 ---
-
-# 🧠 OOP Concepts Used
-
-## 1. Class
-Classes are used to define the structure and behavior of tasks and task management.
-
-### Classes Used:
-- `Task`
-- `TaskManager`
-- `Storage`
-
----
-
-## 2. Object
-Objects are created from classes to manage individual tasks.
-
-Example:
-```python
-task = Task("Complete Python project")
-```
-
----
-
-## 3. Encapsulation
-Task operations are encapsulated inside methods such as:
-- `add_task()`
-- `delete_task()`
-- `complete_task()`
-
----
-
-## 4. Abstraction
-The storage functionality is separated into a different file (`storage.py`) to hide implementation details.
-
----
-
-# ⚙️ Installation & Setup
-
-## Step 1: Install Python
-
-Download and install Python:
-
-https://www.python.org/downloads/
-
-While installing:
-- Enable **Add Python to PATH**
-
----
-
-## Step 2: Clone Repository
-
-```bash
-git clone https://github.com/your-username/todo-app.git
-```
-
----
-
-## Step 3: Navigate to Project Folder
-
-```bash
-cd todo-app
-```
-
----
-
-## Step 4: Run the Application
+##  Run the Application
 
 ```bash
 python main.py
 ```
 
-If `python` does not work:
-
-```bash
-python3 main.py
-```
-
----
-
-# ▶️ Application Menu
+#  Application Menu
 
 ```text
 ===== TO-DO LIST MENU =====
@@ -150,7 +77,7 @@ python3 main.py
 
 ---
 
-# 💾 Data Storage
+#  Data Storage
 
 Tasks are stored in a JSON file:
 
@@ -173,7 +100,7 @@ This ensures that tasks remain saved even after closing the application.
 
 ---
 
-# 📸 Sample Output
+#  Sample Output
 
 ```text
 ===== TO-DO LIST MENU =====
@@ -193,7 +120,7 @@ Task added successfully!
 
 ---
 
-# 🔄 Workflow of the Application
+# Workflow of the Application
 
 1. User selects an option from the menu
 2. Application performs the requested operation
@@ -203,7 +130,7 @@ Task added successfully!
 
 ---
 
-# 🚀 Future Enhancements
+# Future Enhancements
 
 The project can be improved further by adding:
 
@@ -212,13 +139,11 @@ The project can be improved further by adding:
 - User authentication system
 - Task priorities
 - Due dates & reminders
-- Search and filter options
-- Dark mode UI
 - Web or mobile version
 
 ---
 
-# 🎯 Learning Outcomes
+#  Learning Outcomes
 
 Through this project, the following concepts were learned:
 
@@ -228,48 +153,5 @@ Through this project, the following concepts were learned:
 - JSON operations
 - Modular coding practices
 - CLI application development
-
----
-
-# 🐞 Common Errors & Solutions
-
-## Error:
-```text
-No such file or directory
-```
-
-### Solution:
-Make sure you are inside the correct project folder before running:
-
-```bash
-cd todo_app
-python main.py
-```
-
----
-
-# 🤝 Contribution
-
-Contributions are welcome!
-
-If you'd like to improve this project:
-1. Fork the repository
-2. Create a new branch
-3. Make your changes
-4. Submit a pull request
-
----
-
-# 📄 License
-
-This project is open-source and available under the MIT License.
-
----
-
-# 👨‍💻 Author
-
-Murali G
-
-Python Developer | Software Enthusiast
 
 ---
