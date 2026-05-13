@@ -1,37 +1,37 @@
-# 📱 Contact Management System
+# Contact Management System
 
-## 📌 Introduction
+## Introduction
 The Contact Management System is a Python application that helps users store and manage contact information efficiently. Users can add, view, search, update, and delete contacts.
 
 The project demonstrates CRUD operations, OOP concepts, and JSON file handling.
 
 ---
 
-# 🎯 Objectives
+# Objectives
 - Manage contact information efficiently
 - Implement CRUD operations
 - Store contact data permanently
 
 ---
 
-# 🚀 Features
-✅ Add Contacts  
-✅ View Contact List  
-✅ Search Contacts  
-✅ Update Contacts  
-✅ Delete Contacts  
-✅ JSON Data Storage  
+# Features
+- Add Contacts  
+- View Contact List  
+- Search Contacts  
+- Update Contacts  
+- Delete Contacts  
+- JSON Data Storage  
 
 ---
 
-# 🛠️ Technologies Used
+#  Technologies Used
 - Python
 - JSON
 - OOP Concepts
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 ```text
 Contact_Management_System/
@@ -46,7 +46,7 @@ Contact_Management_System/
 
 ---
 
-# ▶️ How to Run
+#  How to Run
 
 ```bash
 python main.py
@@ -54,7 +54,7 @@ python main.py
 
 ---
 
-# 🧠 Concepts Used
+#  Concepts Used
 - Classes & Objects
 - Encapsulation
 - JSON Operations
@@ -63,7 +63,7 @@ python main.py
 
 ---
 
-# 🚀 Future Enhancements
+#  Future Enhancements
 - GUI Interface
 - Database Integration
 - Import/Export Contacts
@@ -71,5 +71,5 @@ python main.py
 
 ---
 
-# 📌 Conclusion
+#  Conclusion
 This project demonstrates contact management functionality using Python and OOP concepts.
