@@ -1,35 +1,35 @@
-# 🧮 Calculator Application
+#  Calculator Application
 
-## 📌 Introduction
+##  Introduction
 The Calculator Application is a Python-based program designed to perform basic arithmetic operations including addition, subtraction, multiplication, and division.
 
 The project provides a simple and beginner-friendly command-line interface for performing calculations.
 
 ---
 
-# 🎯 Objectives
+#  Objectives
 - Perform arithmetic calculations
 - Implement conditional logic
 - Build a simple Python application
 
 ---
 
-# 🚀 Features
-✅ Addition  
-✅ Subtraction  
-✅ Multiplication  
-✅ Division  
-✅ Division by Zero Handling  
+#  Features
+- Addition  
+- Subtraction  
+- Multiplication  
+- Division  
+- Division by Zero Handling  
 
 ---
 
-# 🛠️ Technologies Used
+#  Technologies Used
 - Python
 - VS Code
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 ```text
 Calculator/
@@ -40,7 +40,7 @@ Calculator/
 
 ---
 
-# ▶️ How to Run
+#  How to Run
 
 ```bash
 python main.py
@@ -48,7 +48,7 @@ python main.py
 
 ---
 
-# 🧠 Concepts Used
+#  Concepts Used
 - Variables
 - Conditional Statements
 - Arithmetic Operators
@@ -57,12 +57,12 @@ python main.py
 
 ---
 
-# 🚀 Future Enhancements
+#  Future Enhancements
 - Scientific Calculator
 - GUI Interface
 - Calculation History
 
 ---
 
-# 📌 Conclusion
+#  Conclusion
 This project demonstrates the basics of Python programming and arithmetic operations using a command-line interface.
