@@ -1,46 +1,41 @@
-# 📱 Contact Management System
+# 🔐 Password Generator
 
 ## 📌 Introduction
-The Contact Management System is a Python application that helps users store and manage contact information efficiently. Users can add, view, search, update, and delete contacts.
+The Password Generator is a Python-based application that generates strong and secure passwords using random combinations of letters, numbers, and special characters.
 
-The project demonstrates CRUD operations, OOP concepts, and JSON file handling.
+This project helps users improve online security by creating secure passwords.
 
 ---
 
 # 🎯 Objectives
-- Manage contact information efficiently
-- Implement CRUD operations
-- Store contact data permanently
+- Generate secure passwords
+- Implement randomization in Python
+- Create customizable password lengths
 
 ---
 
 # 🚀 Features
-✅ Add Contacts  
-✅ View Contact List  
-✅ Search Contacts  
-✅ Update Contacts  
-✅ Delete Contacts  
-✅ JSON Data Storage  
+✅ Random Password Generation  
+✅ Custom Password Length  
+✅ Includes Numbers & Symbols  
+✅ Secure Character Combination  
 
 ---
 
 # 🛠️ Technologies Used
 - Python
-- JSON
-- OOP Concepts
+- Random Module
+- String Module
 
 ---
 
 # 📂 Project Structure
 
 ```text
-Contact_Management_System/
+Password_Generator/
 │
 ├── main.py
-├── contact.py
-├── contact_manager.py
-├── storage.py
-├── contacts.json
+├── password_generator.py
 └── README.md
 ```
 
@@ -55,21 +50,19 @@ python main.py
 ---
 
 # 🧠 Concepts Used
+- Randomization
+- String Handling
 - Classes & Objects
-- Encapsulation
-- JSON Operations
-- File Handling
-- Modular Programming
+- User Input
 
 ---
 
 # 🚀 Future Enhancements
 - GUI Interface
-- Database Integration
-- Import/Export Contacts
-- Search Filters
+- Password Strength Checker
+- Clipboard Copy Feature
 
 ---
 
 # 📌 Conclusion
-This project demonstrates contact management functionality using Python and OOP concepts.
+This project demonstrates secure password generation using Python randomization techniques.
