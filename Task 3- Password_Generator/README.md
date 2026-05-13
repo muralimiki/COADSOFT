@@ -1,35 +1,35 @@
-# 🔐 Password Generator
+#  Password Generator
 
-## 📌 Introduction
+##  Introduction
 The Password Generator is a Python-based application that generates strong and secure passwords using random combinations of letters, numbers, and special characters.
 
 This project helps users improve online security by creating secure passwords.
 
 ---
 
-# 🎯 Objectives
+#  Objectives
 - Generate secure passwords
 - Implement randomization in Python
 - Create customizable password lengths
 
 ---
 
-# 🚀 Features
-✅ Random Password Generation  
-✅ Custom Password Length  
-✅ Includes Numbers & Symbols  
-✅ Secure Character Combination  
+#  Features
+- Random Password Generation  
+- Custom Password Length  
+- Includes Numbers & Symbols  
+- Secure Character Combination  
 
 ---
 
-# 🛠️ Technologies Used
+#  Technologies Used
 - Python
 - Random Module
 - String Module
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 ```text
 Password_Generator/
@@ -41,7 +41,7 @@ Password_Generator/
 
 ---
 
-# ▶️ How to Run
+#  How to Run
 
 ```bash
 python main.py
@@ -49,7 +49,7 @@ python main.py
 
 ---
 
-# 🧠 Concepts Used
+#  Concepts Used
 - Randomization
 - String Handling
 - Classes & Objects
@@ -57,7 +57,7 @@ python main.py
 
 ---
 
-# 🚀 Future Enhancements
+#  Future Enhancements
 - GUI Interface
 - Password Strength Checker
 - Clipboard Copy Feature
