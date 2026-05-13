@@ -64,5 +64,5 @@ python main.py
 
 ---
 
-# 📌 Conclusion
+#  Conclusion
 This project demonstrates secure password generation using Python randomization techniques.
