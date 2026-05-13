@@ -1,7 +1,7 @@
 from task_manager import TaskManager
 
 def menu():
-    print("\n===== TO-DO LIST MENU =====")
+    print("\n***TO-DO LIST MENU***")
     print("1. View Tasks")
     print("2. Add Task")
     print("3. Delete Task")
